@@ -15,11 +15,12 @@ Before you begin, make sure you have the following:
 
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/ndamulelonemakh/openai-net-starter.git
    ```
 
 2. Install the OpenAI SDK for .NET using NuGet:
    ```bash
+   cd openai-net-starter
    dotnet add package OpenAI
    ```
 
