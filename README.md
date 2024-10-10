@@ -74,7 +74,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-If you have any questions, reach out via the [Issues tab]()
+If you have any questions, reach out via the [Issues tab](https://github.com/ndamulelonemakh/openai-net-starter/issues)
 
 
 ---
